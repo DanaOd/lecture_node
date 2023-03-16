@@ -1,5 +1,3 @@
-console.log('inside the file');
-
 const validator = require("validator");
 
 const validateEmail = email => {
@@ -12,3 +10,5 @@ console.log(
 );
 
 console.log('changes in first branch');
+
+console.log('changes in MASTER branch');
