@@ -9,6 +9,6 @@ console.log(
   validateEmail("mango@mail.com")
 );
 
-console.log('changes in first branch');
+console.log('changes in first - changes after 1 merge branch');
 
 console.log('changes in MASTER branch');
